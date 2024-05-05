@@ -1,88 +1,36 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil GitHub</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-            text-align: center;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        .badge {
-            display: inline-block;
-            padding: 5px 10px;
-            font-size: 14px;
-            font-weight: bold;
-            color: #fff;
-            border-radius: 5px;
-            margin-right: 5px;
-        }
-        .html { background-color: #e34c26; }
-        .css { background-color: #1572b6; }
-        .javascript { background-color: #f7df1e; }
-        .react { background-color: #61dafb; }
-        .git { background-color: #f05032; }
-        .gimp { background-color: #5c5543; }
-        .canva { background-color: #00c4cc; }
-    </style>
-</head>
-<body>
-    <h1>Olá, Mundo! 👋</h1>
+<!-- Meu README.md -->
 
-    <p>Meu nome é "Gustavo B" e sou um desenvolvedor web apaixonado por criar interfaces incríveis e funcionais.</p>
+# Olá, Mundo! 👋
 
-    <h2>Sobre Mim</h2>
-    <ul>
-        <li>💻 Atualmente trabalhando como desenvolvedor front-end.</li>
-        <li>🌱 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.</li>
-        <li>🎨 Entusiasta de design, utilizando ferramentas como GIMP e Canva para criar recursos visuais atraentes.</li>
-    </ul>
+Meu nome é "Gustavo B" e sou um desenvolvedor web apaixonado por criar interfaces incríveis e funcionais.
 
-    <h2>Principais Habilidades</h2>
-    <ul>
-        <li>Desenvolvimento Web com <span class="badge html">HTML5</span>, <span class="badge css">CSS3</span>, <span class="badge javascript">JavaScript</span> e <span class="badge react">React</span>.</li>
-        <li>Versionamento de código com <span class="badge git">Git</span>.</li>
-        <li>Edição de imagens e design gráfico com <span class="badge gimp">GIMP</span> e <span class="badge canva">Canva</span>.</li>
-    </ul>
+## Sobre Mim
+- 💻 Atualmente trabalhando como desenvolvedor front-end.
+- 🌱 Sempre em busca de aprender novas tecnologias e aprimorar minhas habilidades.
+- 🎨 Entusiasta de design, utilizando ferramentas como GIMP e Canva para criar recursos visuais atraentes.
 
-    <h2>Minhas Estatísticas no GitHub</h2>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical" alt="Github Stats">
-    </p>
+## Principais Habilidades
+- Desenvolvimento Web com HTML, CSS, JavaScript e React.
+- Versionamento de código com Git.
+- Edição de imagens e design gráfico com GIMP e Canva.
 
-    <h2>Tecnologias que Eu Uso</h2>
-    <ul>
-        <li><span class="badge html">HTML5</span></li>
-        <li><span class="badge css">CSS3</span></li>
-        <li><span class="badge javascript">JavaScript</span></li>
-        <li><span class="badge react">React</span></li>
-        <li><span class="badge git">Git</span></li>
-        <li><span class="badge gimp">GIMP</span></li>
-        <li><span class="badge canva">Canva</span></li>
-    </ul>
+## Minhas Estatísticas no GitHub
+![Github Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
 
-    <h2>Entre em Contato</h2>
-    <ul>
-        <li>📧 Email: seu-email@example.com</li>
-        <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">Seu Perfil</a></li>
-        <li>🌐 Website: <a href="https://seu-website.com" target="_blank">Seu Website</a></li>
-        <li>🐦 Twitter: <a href="https://twitter.com/seu-username" target="_blank">@seu-username</a></li>
-    </ul>
+## Tecnologias que Eu Uso
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> HTML5
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> CSS3
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> JavaScript
+- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> React
+- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> Git
+- <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" /> GIMP
+- <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> Canva
 
-    <p>⭐️ Obrigado por visitar meu perfil! Vamos criar coisas incríveis juntos. 😊</p>
-</body>
-</html>
+## Entre em Contato
+- 📧 Email: Gustavobrivis@gmail.com
+- 💼 LinkedIn: [Gustavo B](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- 🌐 Website: [Meu Website](https://Meu-website.com)
+
+---
+
+⭐️ Obrigado por visitar meu perfil! Vamos criar coisas incríveis juntos. 😊
