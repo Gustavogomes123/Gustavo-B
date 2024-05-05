@@ -1,4 +1,4 @@
-<!-- Meu README.md -->
+<!-- Seu README.md -->
 
 # Olá, Mundo! 👋
 
@@ -15,7 +15,7 @@ Meu nome é "Gustavo B" e sou um desenvolvedor web apaixonado por criar interfac
 - Edição de imagens e design gráfico com GIMP e Canva.
 
 ## Minhas Estatísticas no GitHub
-![Github Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Gustavogomes123&show_icons=true&theme=radical)
 
 ## Tecnologias que Eu Uso
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> HTML5
@@ -29,6 +29,7 @@ Meu nome é "Gustavo B" e sou um desenvolvedor web apaixonado por criar interfac
 ## Entre em Contato
 - 📧 Email: Gustavobrivis@gmail.com
 - 💼 LinkedIn: [Gustavo B](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- 🌐 Website: Em Breve
 
 ---
 
