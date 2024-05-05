@@ -29,7 +29,6 @@ Meu nome é "Gustavo B" e sou um desenvolvedor web apaixonado por criar interfac
 ## Entre em Contato
 - 📧 Email: Gustavobrivis@gmail.com
 - 💼 LinkedIn: [Gustavo B](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-- 🌐 Website: [Meu Website](https://Meu-website.com)
 
 ---
 
